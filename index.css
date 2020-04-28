@@ -51,3 +51,14 @@
 body {
   margin: 0;
 }
+
+#filtered-div {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+#filtered-div img{
+  max-width: 75vw;
+  max-height: 25vw;
+}
